@@ -58,11 +58,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #2C3E50;
+  border-color: #000000;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #2C3E50;
+  color: #000000;
 }
 .img-centered {
   margin: 0 auto;
@@ -104,7 +104,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #662D91;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
